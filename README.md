@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kamini-singh
-- 👀 I’m a sophomore at IGDTUW
+- 👋 Hi, I’m Kamini Singh
+- 👀 I’m an IT sophomore at IGDTUW
 - 🌱 I’m currently learning Data Structures and Algorithms in C++
 - 💞️ I’m also learning Flutter and Front-end Web Dev
 
