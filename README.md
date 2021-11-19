@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kamini-singh
 - 👀 I’m a sophomore at IGDTUW
-- 🌱 I’m currently learning C++, Flutter and Front-end Web Dev
-- 💞️ I’m currently creating different projects with Flutter
-- 📫 Reach me on LinkedIn [https://www.linkedin.com/in/kamini-singh-619483204/]
+- 🌱 I’m currently learning Data Structures and Algorithms in C++
+- 💞️ I’m also learning Flutter and Front-end Web Dev
+
 
 <!---
 kamini-singh/kamini-singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
