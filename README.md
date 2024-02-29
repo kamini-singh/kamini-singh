@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kamini Singh
 - 👀 I'm 4th year IT undergrad at IGDTUW
-- 🌱 I’m currently learning Data Structures and Algorithms in C++
-- 💞️ I enjoy working with Flutter
+- ✨ I enjoy working on Flutter Projects
+- 🏄‍♂️ And I solve DSA problems for kicks!
 
 
 <!---
